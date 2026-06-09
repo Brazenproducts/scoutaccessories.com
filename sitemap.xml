@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://scoutaccessories.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://scoutaccessories.com/best-scout-terra-truck-accessories.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://scoutaccessories.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://scoutaccessories.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://scoutaccessories.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://scoutaccessories.com/scoutaccessories-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://scoutaccessories.com/what-we-look-for-scoutaccessories-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://scoutaccessories.com/scoutaccessories-buyers-handbook-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://scoutaccessories.com/how-to-pick-scoutaccessories-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://scoutaccessories.com/scoutaccessories-worth-the-upgrade-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://scoutaccessories.com/truth-about-scoutaccessories-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://scoutaccessories.com/scoutaccessories-explained-2026.html</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://scoutaccessories.com/scoutaccessories-market-2026.html</loc><lastmod>2026-06-02</lastmod></url>
-  <url><loc>https://scoutaccessories.com/scoutaccessories-quality-vs-marketing.html</loc><lastmod>2026-06-05</lastmod></url>
-  <url><loc>https://scoutaccessories.com/no-bs-scoutaccessories-guide-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://scoutaccessories.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
